@@ -8,6 +8,6 @@
 
 Based on: 
 
-Mikhail Belkin, Partha Niyogi, and Vikas Sindhwani. Manifold regularization : A geometric framework
+[Mikhail Belkin, Partha Niyogi, and Vikas Sindhwani. Manifold regularization : A geometric framework
 for learning from labeled and unlabeled examples. Journal of Machine Learning Research, 7 :2399–
-2434, 2006.
+2434, 2006](http://vikas.sindhwani.org/MR.pdf)
